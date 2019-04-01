@@ -12,8 +12,25 @@ body,html{
     font-family: sans-serif;
     font-size: 30px;
     color: crimson;
-}.sub-header{
+}
+.sub-judul{
+   color: black;
     
-}.isi{
+}
+.isi{
     
+}
+.col-kiri{
+    background: #669966;
+    
+    
+}
+.col-kanan{
+    background: #691c1c;
+    
+    
+}
+.section2{
+    padding: 100px 0px;
+    background: #d2d2d2;
 }
