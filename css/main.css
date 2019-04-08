@@ -45,4 +45,5 @@ body,html{
 }
 .link:hover{
     background: #d2d2d2;
+    color: brown;
 }
